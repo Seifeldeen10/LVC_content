@@ -1,1 +1,0 @@
-import React from 'react'; const Contact = ()=> { return ( <form className='container mx-auto'> <input className='mb-8'/></form> ); } export default Contact;
