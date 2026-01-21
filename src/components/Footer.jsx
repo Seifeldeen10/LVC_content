@@ -1,0 +1,1 @@
+import React from 'react';\n\nfunction Footer() {\n  return (\n    <footer>\n      <div>\n        <a href='#'>Link 1</a>\n      </div>\n      <div>\n        <a href='#'>Link 2</a>\n      </div>\n      <div>\n        <a href='#'>Link 3</a>\n      </div>\n    </footer>\n  );\n}\n\nexport default Footer;
