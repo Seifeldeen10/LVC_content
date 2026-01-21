@@ -1,1 +1,0 @@
-import React from 'react';\n\nfunction HeroSection() {\n  return (\n    <section>\n      <h1>Hero Heading</h1>\n      <p>Hero Subheading</p>\n      <button>CTA</button>\n    </section>\n  );\n}\n\nexport default HeroSection;

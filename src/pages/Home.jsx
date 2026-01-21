@@ -1,1 +1,0 @@
-import React from 'react';\nimport HeroSection from '../components/HeroSection';\n\nfunction Home() {\n  return (\n    <div>\n      <HeroSection />\n    </div>\n  );\n}\n\nexport default Home;

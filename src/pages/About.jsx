@@ -1,1 +1,0 @@
-import React from 'react';\n\nfunction About() {\n  return (\n    <div>\n      <h1>About</h1>\n    </div>\n  );\n}\n\nexport default About;

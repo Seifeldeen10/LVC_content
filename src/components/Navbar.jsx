@@ -1,1 +1,0 @@
-import React from 'react';\nimport { Link } from 'react-router-dom';\n\nfunction Navbar() {\n  return (\n    <nav>\n      <ul>\n        <li><Link to='/'>Home</Link></li>\n        <li><Link to='/about'>About</Link></li>\n        <li><Link to='/contact'>Contact</Link></li>\n      </ul>\n    </nav>\n  );\n}\n\nexport default Navbar;
